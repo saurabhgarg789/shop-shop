@@ -10,5 +10,5 @@ const Home = () => {
     </div>
   );
 };
-
+//exporting home component
 export default Home;
